@@ -1,0 +1,7 @@
+E:\Csap\CGO_basicCsharp\loop1\loop1\bin\Debug\loop1.exe.config
+E:\Csap\CGO_basicCsharp\loop1\loop1\bin\Debug\loop1.exe
+E:\Csap\CGO_basicCsharp\loop1\loop1\bin\Debug\loop1.pdb
+E:\Csap\CGO_basicCsharp\loop1\loop1\obj\Debug\loop1.csproj.AssemblyReference.cache
+E:\Csap\CGO_basicCsharp\loop1\loop1\obj\Debug\loop1.csproj.CoreCompileInputs.cache
+E:\Csap\CGO_basicCsharp\loop1\loop1\obj\Debug\loop1.exe
+E:\Csap\CGO_basicCsharp\loop1\loop1\obj\Debug\loop1.pdb
