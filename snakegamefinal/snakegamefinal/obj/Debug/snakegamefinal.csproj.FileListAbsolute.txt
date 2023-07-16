@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\snakegamefinal\snakegamefinal\bin\Debug\snakegamefinal.exe.config
+C:\Users\admin\source\repos\snakegamefinal\snakegamefinal\bin\Debug\snakegamefinal.exe
+C:\Users\admin\source\repos\snakegamefinal\snakegamefinal\bin\Debug\snakegamefinal.pdb
+C:\Users\admin\source\repos\snakegamefinal\snakegamefinal\obj\Debug\snakegamefinal.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\snakegamefinal\snakegamefinal\obj\Debug\snakegamefinal.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\snakegamefinal\snakegamefinal\obj\Debug\snakegamefinal.exe
+C:\Users\admin\source\repos\snakegamefinal\snakegamefinal\obj\Debug\snakegamefinal.pdb
+E:\Csap\CGO_basicCsharp\snakegamefinal\snakegamefinal\bin\Debug\snakegamefinal.exe.config
+E:\Csap\CGO_basicCsharp\snakegamefinal\snakegamefinal\bin\Debug\snakegamefinal.exe
+E:\Csap\CGO_basicCsharp\snakegamefinal\snakegamefinal\bin\Debug\snakegamefinal.pdb
+E:\Csap\CGO_basicCsharp\snakegamefinal\snakegamefinal\obj\Debug\snakegamefinal.csproj.AssemblyReference.cache
+E:\Csap\CGO_basicCsharp\snakegamefinal\snakegamefinal\obj\Debug\snakegamefinal.csproj.CoreCompileInputs.cache
+E:\Csap\CGO_basicCsharp\snakegamefinal\snakegamefinal\obj\Debug\snakegamefinal.exe
+E:\Csap\CGO_basicCsharp\snakegamefinal\snakegamefinal\obj\Debug\snakegamefinal.pdb
