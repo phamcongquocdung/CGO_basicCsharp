@@ -1,0 +1,7 @@
+E:\Csap\CGO_basicCsharp\findmaxarray\findmaxarray\bin\Debug\findmaxarray.exe.config
+E:\Csap\CGO_basicCsharp\findmaxarray\findmaxarray\bin\Debug\findmaxarray.exe
+E:\Csap\CGO_basicCsharp\findmaxarray\findmaxarray\bin\Debug\findmaxarray.pdb
+E:\Csap\CGO_basicCsharp\findmaxarray\findmaxarray\obj\Debug\findmaxarray.csproj.AssemblyReference.cache
+E:\Csap\CGO_basicCsharp\findmaxarray\findmaxarray\obj\Debug\findmaxarray.csproj.CoreCompileInputs.cache
+E:\Csap\CGO_basicCsharp\findmaxarray\findmaxarray\obj\Debug\findmaxarray.exe
+E:\Csap\CGO_basicCsharp\findmaxarray\findmaxarray\obj\Debug\findmaxarray.pdb
