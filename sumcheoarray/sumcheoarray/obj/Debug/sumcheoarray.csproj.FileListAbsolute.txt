@@ -1,0 +1,7 @@
+E:\Csap\CGO_basicCsharp\sumcheoarray\sumcheoarray\bin\Debug\sumcheoarray.exe.config
+E:\Csap\CGO_basicCsharp\sumcheoarray\sumcheoarray\bin\Debug\sumcheoarray.exe
+E:\Csap\CGO_basicCsharp\sumcheoarray\sumcheoarray\bin\Debug\sumcheoarray.pdb
+E:\Csap\CGO_basicCsharp\sumcheoarray\sumcheoarray\obj\Debug\sumcheoarray.csproj.AssemblyReference.cache
+E:\Csap\CGO_basicCsharp\sumcheoarray\sumcheoarray\obj\Debug\sumcheoarray.csproj.CoreCompileInputs.cache
+E:\Csap\CGO_basicCsharp\sumcheoarray\sumcheoarray\obj\Debug\sumcheoarray.exe
+E:\Csap\CGO_basicCsharp\sumcheoarray\sumcheoarray\obj\Debug\sumcheoarray.pdb
