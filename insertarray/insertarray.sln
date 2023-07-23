@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "insertarray", "insertarray\insertarray.csproj", "{0D476EC9-AC4C-48E5-A044-3EA0E632850A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D476EC9-AC4C-48E5-A044-3EA0E632850A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D476EC9-AC4C-48E5-A044-3EA0E632850A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D476EC9-AC4C-48E5-A044-3EA0E632850A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D476EC9-AC4C-48E5-A044-3EA0E632850A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34C4535A-8778-4D2E-853F-7202AA754823}
+	EndGlobalSection
+EndGlobal

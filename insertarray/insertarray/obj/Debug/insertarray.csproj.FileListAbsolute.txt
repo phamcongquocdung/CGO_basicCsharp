@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\insertarray\insertarray\bin\Debug\insertarray.exe.config
+C:\Users\admin\source\repos\insertarray\insertarray\bin\Debug\insertarray.exe
+C:\Users\admin\source\repos\insertarray\insertarray\bin\Debug\insertarray.pdb
+C:\Users\admin\source\repos\insertarray\insertarray\obj\Debug\insertarray.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\insertarray\insertarray\obj\Debug\insertarray.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\insertarray\insertarray\obj\Debug\insertarray.exe
+C:\Users\admin\source\repos\insertarray\insertarray\obj\Debug\insertarray.pdb
